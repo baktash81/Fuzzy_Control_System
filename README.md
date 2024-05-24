@@ -7,8 +7,6 @@ This project was developed as part of my Computational Intelligence course. The 
 ## Project Details
 - **Course:** Computational Intelligence
 - **Project Title:** Pendulum Problem Solution using Fuzzy Control System
-- **Student Name:** Baktash Ansari
-- **Student ID:** 99521082
 
 ## Description
 The notebook contains the implementation and analysis of the pendulum problem. The solution leverages a fuzzy control system to simulate and solve the dynamic behavior of a pendulum. The project explores various computational techniques to achieve accurate and efficient results.
@@ -24,6 +22,6 @@ The notebook includes the following sections:
 ## Demo Video
 
 <video width="800" height="450" controls>
-  <source src="./Demo_Video.mkv" type="video/x-matroska">
+  <source src="./Q1_Video.mkv" type="video/x-matroska">
   Your browser does not support the video tag.
 </video>

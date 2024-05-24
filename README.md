@@ -21,8 +21,4 @@ The notebook includes the following sections:
 
 ## Demo Video
 
-[![Demo Video](https://via.placeholder.com/800x450.png?text=Demo+Video)](./Q1_Video.mkv)
-
-Click the image above to download and watch the demo video.
-
-If you prefer, you can download the video directly [here](./Q1_Video.mkv).
+[here](./Q1_Video.mkv).

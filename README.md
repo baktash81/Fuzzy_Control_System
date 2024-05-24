@@ -21,7 +21,8 @@ The notebook includes the following sections:
 
 ## Demo Video
 
-<video width="800" height="450" controls>
-  <source src="./Q1_Video.mkv" type="video/x-matroska">
-  Your browser does not support the video tag.
-</video>
+[![Demo Video](https://via.placeholder.com/800x450.png?text=Demo+Video)](./Q1_Video.mkv)
+
+Click the image above to download and watch the demo video.
+
+If you prefer, you can download the video directly [here](./Q1_Video.mkv).
